@@ -1,3 +1,4 @@
+
 fastapi
 uvicorn
 deepface
@@ -6,3 +7,4 @@ numpy
 opencv-python
 Pillow
 python-dotenv
+tf-keras
